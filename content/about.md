@@ -4,7 +4,7 @@ date = "2014-04-09"
 image = 'street.jpg'
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hugo is the **world’s fastest framework for building websites**. It is written in Go. A Google Language.
 
 It makes use of a variety of open source projects including:
 
