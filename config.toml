@@ -1,5 +1,5 @@
 baseurl = "https://example.com/"
-title = "View News"
+title = "Big Yellow Bucket"
 theme = "newsroom"
 author = "Weru"
 copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
